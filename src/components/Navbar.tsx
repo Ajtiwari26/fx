@@ -25,7 +25,7 @@ export default function Navbar({ onAuthClick, user }: NavbarProps) {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <TrendingUp className="h-8 w-8 text-blue-600" />
-              <span className="ml-2 text-xl font-bold text-gray-800">TradePro</span>
+              <span className="ml-2 text-xl font-bold text-gray-800">FxCapitals</span>
             </Link>
           </div>
           
